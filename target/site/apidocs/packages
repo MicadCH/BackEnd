@@ -1,0 +1,10 @@
+com.portfolio.mdc.Controller
+com.portfolio.mdc
+com.portfolio.mdc.Security.Controller
+com.portfolio.mdc.Security.Dto
+com.portfolio.mdc.Security.Entity
+com.portfolio.mdc.Security.Enums
+com.portfolio.mdc.Security.jwt
+com.portfolio.mdc.Security
+com.portfolio.mdc.Security.Repository
+com.portfolio.mdc.Security.Service
